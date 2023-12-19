@@ -3,7 +3,7 @@
     <main class="container">
         <!-- Catagories -->
         <div class="text-center">
-            <H4 class="my-3">DANH MỤC SẢN PHẨM</H4>
+            <H4 class="my-3">DANH MỤC SẢN PHẨ</H4>
             <div class="row">
                     <?php foreach($dsdm as $dm):?>
                     <div class="col-md-4 position-relative">
